@@ -6,7 +6,7 @@ I am a security professional with over 6.5 years of experience (spanning corpora
 
 **Technical Focus**
 
-Product Security: Application Security, SAST, DAST, Threat Modeling, ITPF, and System Integration.
+Product Security: Application Security, Penetration Testing, SAST, DAST, Threat Modeling, ITPF, and System Integration.
 
 AI for Security (MLSecOps): Building autonomous security auditing agents using LangChain, Langflow, and RAG architectures.
 
