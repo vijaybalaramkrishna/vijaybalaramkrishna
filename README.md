@@ -1,4 +1,5 @@
 Hi, I’m Vijay Balaram Krishna
+
 **Senior Application Security Consultant | MLSecOps & Agentic AI Researcher**
 
 I am a security professional with over 6.5 years of experience (spanning corporate and consulting roles) dedicated to securing applications and innovating at the intersection of AI and Cybersecurity. 
